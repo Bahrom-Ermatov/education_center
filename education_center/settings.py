@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'education_center_app',
     'rest_framework',
     'drf_spectacular',
+    'django_dump_load_utf8',
 ]
 
 MIDDLEWARE = [
